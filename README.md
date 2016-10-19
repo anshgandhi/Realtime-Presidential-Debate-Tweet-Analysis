@@ -1,12 +1,16 @@
 # Realtime Presidential Tweet Analysis
-<anshgandhi.wordpress.com>
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-|  
-| There are two text files for POSITIVE & NEGATIVE opinion words (or sentiment words).  
-|  
-| This file and the papers can all be downloaded from  
-|    http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html  
+anshgandhi.wordpress.com
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+There are two text files for POSITIVE & NEGATIVE opinion words (or sentiment words).  
+
+  
+This file and the papers can all be downloaded from  
+&nbsp;&nbsp;&nbsp;http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html  
 |  
 | If you use this list, please cite one of the following two papers:  
 |  
