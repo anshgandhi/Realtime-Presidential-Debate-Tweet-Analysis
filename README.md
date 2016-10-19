@@ -1,15 +1,15 @@
 # Realtime Presidential Tweet Analysis
 <anshgandhi.wordpress.com>
 
-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;  
-;  
-; There are two text files for POSITIVE & NEGATIVE opinion words (or sentiment words).  
-;  
-; This file and the papers can all be downloaded from  
-;    http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html  
-;  
-; If you use this list, please cite one of the following two papers:  
-;  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+|  
+| There are two text files for POSITIVE & NEGATIVE opinion words (or sentiment words).  
+|  
+| This file and the papers can all be downloaded from  
+|    http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html  
+|  
+| If you use this list, please cite one of the following two papers:  
+|  
 ;   Minqing Hu and Bing Liu. "Mining and Summarizing Customer Reviews." 
 ;       Proceedings of the ACM SIGKDD International Conference on Knowledge 
 ;       Discovery and Data Mining (KDD-2004), Aug 22-25, 2004, Seattle, 
