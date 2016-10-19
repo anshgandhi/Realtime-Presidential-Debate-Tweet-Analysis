@@ -1,4 +1,4 @@
-# Realtime Presidential Tweet Analysis
+# Realtime Presidential Debate Tweet Analysis
 
 [anshgandhi.wordpress.com](anshgandhi.wordpress.com)
 
