@@ -1,6 +1,6 @@
 # Realtime Presidential Debate Tweet Analysis
 
-[anshgandhi.wordpress.com](anshgandhi.wordpress.com)
+[anshgandhi.wordpress.com](https://anshgandhi.wordpress.com/)
 
 
 There are two text files for POSITIVE & NEGATIVE opinion words (or sentiment words).  
