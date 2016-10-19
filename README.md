@@ -1,6 +1,6 @@
 # Realtime Presidential Tweet Analysis
 
-anshgandhi.wordpress.com(anshgandhi.wordpress.com)
+[anshgandhi.wordpress.com](anshgandhi.wordpress.com)
 
 
 There are two text files for POSITIVE & NEGATIVE opinion words (or sentiment words).  
